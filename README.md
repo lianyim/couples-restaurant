@@ -1,40 +1,75 @@
-# 布布餐厅-h5
+## 一、背景
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+熊家小灶，一个专门为情侣设计的美食记录与点餐程序，共同记录每一餐美食。
 
-#### 软件架构
-软件架构说明
+## 二、功能介绍
+
+### 2.1 前台展示
+
+✨ **首页**
+
+|||
+| :--: | :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/1.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/3.jpg" />|
+
+|||
+| :--: | :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/4.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/5.jpg" />|
+
+💰 **我的余额**
+
+|||
+| :--: | :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/9.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/10.jpg" />|
+
+🧑‍ **订单页**
+
+||||
+| :--: | :--: | :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/6.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/7.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/8.jpg" />|
+
+🔔 **下单通知**
+
+||||
+| :--: | :--: | :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/17.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/20.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/18.jpg" />|
+
+### 2.2 后台管理
+
+🏡 **店铺管理**
+
+- 自定义修改店铺信息
+
+||
+| :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/11_2.jpg" />|
+
+🍽️ **餐品食谱管理**
+
+- 上传和管理餐品信息
+- 创建个性化食谱
+- 自由设置餐品价格
+
+||||
+| :--------- | :--: | :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/12.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/13.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/14.jpg" />|
+
+💑 **用户管理**
+
+- 为TA开通专属账号
+- 灵活充值消费"熊熊币"
+
+|||
+| :--: | :--: |
+|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/15.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/16.jpg" />|
+
+### 联系作者
+ **微信：TL07061030** （备注gitee）
+
+或关注公众号 "连帆起航"，加作者微信
+
+注：源码收费哦！购买源码后，你可获得作者指导搭建、代码咨询，以及项目中的任何疑问！
+
+![输入图片说明](imgs/gzh.png)
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
->>>>>>> 4fea7aead8cc0857e25fbf72d2fb26e0f45ce4fd
