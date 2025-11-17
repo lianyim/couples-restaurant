@@ -64,7 +64,7 @@
 |<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/15.jpg" />|<img src="https://lian-mall-pictures.oss-cn-beijing.aliyuncs.com/gzh/16.jpg" />|
 
 ### 联系作者
- **微信：TL07061030** （备注gitee）
+ **微信：TL07061030** （备注github）
 
 或关注公众号 "连帆起航"，加作者微信
 
