@@ -1,0 +1,94 @@
+{
+	"pages": [
+		{
+			"path": "pages/loading",
+			"style": {
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": "启动中"
+			}
+		},
+		{
+			"path": "pages/pretendHome",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "熊家小灶"
+			}
+		},
+		{
+			"path": "pages/price/index",
+			"style": {
+				"navigationBarTitleText": "我的余额",
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/order/detail",
+			"style": {
+				"navigationBarTitleText": "订单详情"
+			}
+		},
+		{
+			"path": "pages/order/index",
+			"style": {
+				"navigationBarTitleText": "我的订单"
+			}
+		}, {
+			"path": "pages/work/index",
+			"style": {
+				"navigationBarTitleText": "工作台"
+			}
+		}, {
+			"path": "pages/common/webview/index",
+			"style": {
+				"navigationBarTitleText": "浏览网页"
+			}
+		}, {
+			"path": "pages/common/textview/index",
+			"style": {
+				"navigationBarTitleText": "浏览文本"
+			}
+		},
+		{
+			"path": "pages/admin/dishList",
+			"style": {
+				"enablePullDownRefresh": true,
+				"navigationBarTitleText": "餐品列表"
+			}
+		},
+		{
+			"path": "pages/admin/index",
+			"style": {
+				"navigationBarTitleText": "厨房配置"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#000000",
+		"selectedColor": "#000000",
+		"borderStyle": "white",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/home/index",
+			"iconPath": "static/images/tabbar/home.png",
+			"selectedIconPath": "static/images/tabbar/home_.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/pretendHome",
+			"iconPath": "/static/images/tabbar/work.png",
+			"selectedIconPath": "/static/images/tabbar/home_.png",
+			"text": "日常"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "熊家小灶",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		// 去除 H5、App 导航栏
+		"titleNView": false
+	}
+}
