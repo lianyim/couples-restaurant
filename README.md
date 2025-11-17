@@ -70,6 +70,6 @@
 
 注：源码收费哦！购买源码后，你可获得作者指导搭建、代码咨询，以及项目中的任何疑问！
 
-![输入图片说明](imgs/gzh.png)
+![输入图片说明](https://gitee.com/lianyiming/pet-life/blob/master/imgs/gzh.png)
 
 
